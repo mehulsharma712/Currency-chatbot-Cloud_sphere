@@ -1,0 +1,25 @@
+# Telegram Currency Conversion Chatbot
+
+A simple but powerful chatbot integrated with Telegram and Dialogflow that provides real-time currency exchange rates. The backend is a Flask webhook deployed on Render.
+
+## Features
+- Real-time currency conversion for hundreds of currencies.
+- Natural language understanding powered by Google's Dialogflow.
+- 24/7 availability thanks to cloud deployment.
+
+## Demo
+
+Here is a screenshot of the bot in action:
+
+![Chatbot currency conversion example](Telegram_ss.png)
+
+Code screeshot:
+
+![Chatbot welcome message](Code_ss.png)
+
+## Technology Stack
+- **Platform**: Telegram
+- **NLU**: Google Dialogflow
+- **Backend/Webhook**: Python (Flask)
+- **Hosting**: Render
+- **API**: ExchangeRate-API
