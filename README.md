@@ -17,6 +17,7 @@ Code screeshot:
 
 ![Chatbot welcome message](https://github.com/mehulsharma712/Currency-chatbot-Cloud_sphere/blob/main/Assets/Code_ss.png.png)
 
+[Chatbot working on Phone's Screenshot]:(https://github.com/mehulsharma712/Currency-chatbot-Cloud_sphere/blob/main/Assets/Phone_ss.png.jpg)
 ## Technology Stack
 - **Platform**: Telegram
 - **NLU**: Google Dialogflow
