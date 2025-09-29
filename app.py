@@ -1,6 +1,6 @@
 from flask import Flask,request
 import requests
-
+import os
 app = Flask(__name__)
 
 @app.route('/',methods=['POST'])
@@ -26,7 +26,9 @@ def index():
     }
 
 def fetch_conversion_factor(source, target):
-        url = "https://v6.exchangerate-api.com/v6/af1728b7c74ed1477e6ee1c8/latest/{}".format(source)
+        # Get the API key from an environment variable
+        API_KEY = os.getenv('EXCHANGE_RATE_API_KEY')
+        url = "https://v6.exchangerate-api.com/v6/{}/latest/{}".format(API_KEY, source)
         response = requests.get(url).json()
         return response["conversion_rates"][target]
 
