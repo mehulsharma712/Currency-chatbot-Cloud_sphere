@@ -15,7 +15,7 @@ Here is a screenshot of the bot in action:
 
 Code screeshot:
 
-![Chatbot welcome message](Code_ss.png)
+![Chatbot welcome message](https://github.com/mehulsharma712/Currency-chatbot-Cloud_sphere/blob/main/Assets/Code_ss.png.png)
 
 ## Technology Stack
 - **Platform**: Telegram
