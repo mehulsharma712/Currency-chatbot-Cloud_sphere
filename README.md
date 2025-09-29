@@ -11,7 +11,7 @@ A simple but powerful chatbot integrated with Telegram and Dialogflow that provi
 
 Here is a screenshot of the bot in action:
 
-![Chatbot currency conversion example](https://github.com/mehulsharma712/Currency-chatbot-Cloud_sphere/blob/main/Assets/Code_ss.png.png)
+![Chatbot currency conversion example](https://github.com/mehulsharma712/Currency-chatbot-Cloud_sphere/blob/main/Assets/Telegram_ss.png.png)
 
 Code screeshot:
 
